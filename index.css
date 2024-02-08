@@ -39,13 +39,12 @@ button {
     background: #1976d2;
     font-family: 'Merriweather', serif;
     text-shadow: 0 0 1px black;
-    border-radius: 3%;
+
 }
 
 #save-btn {
     background: #9f86c0;
     font-family: 'Merriweather', serif;
     text-shadow: 0 0 1px black;
-    border-radius: 3%;
 }
 
